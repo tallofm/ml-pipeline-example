@@ -1,6 +1,7 @@
 # run_pipeline.py
 
-from src import config, preprocess, train, evaluate
+from src import evaluate, preprocess, train
+
 
 def main():
     print("🚀 Starting ML pipeline...")
