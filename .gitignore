@@ -1,0 +1,17 @@
+# virtualenv
+.venv/
+
+# Jupyter & Python artifacts
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+
+# models and logs
+models/
+logs/
+outputs/
+*.log
+
+# system
+.DS_Store
+Thumbs.db
